@@ -4,8 +4,8 @@ self.__precacheManifest = [
     "url": "/./fonts/Roboto-Regular.ttf"
   },
   {
-    "revision": "c23d3e3c353ff20e084f",
-    "url": "/static/js/app.07368685.chunk.js"
+    "revision": "6c294d0f478c0c49c34b",
+    "url": "/static/js/app.d5d3859f.chunk.js"
   },
   {
     "revision": "66090dc4495d4ce3dfb9",
@@ -84,7 +84,7 @@ self.__precacheManifest = [
     "url": "/./fonts/MaterialIcons.ttf"
   },
   {
-    "revision": "74b9a946adc683c7f342aeb005bd3182",
+    "revision": "53ed0060340181ef46709302b8ee9aa6",
     "url": "/index.html"
   },
   {
